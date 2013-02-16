@@ -1,4 +1,6 @@
-ps-eye-encoder
+PlayStation Eye Motor Encoder (ps-eye-encoder)
 ==============
 
-PlayStation Eye Encoder
+In this project we're making a motor encoder from a PlayStation Eye to be used with an Arduino.
+
+This project requires openCV to compile.
